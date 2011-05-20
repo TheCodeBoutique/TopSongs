@@ -9,12 +9,12 @@
 #import <UIKit/UIKit.h>
 
 
-@interface RSSTableViewController : UITableViewController {
-
+@interface RSSTableViewController : UITableViewController <NSXMLParserDelegate> {
+	BOOL waitingForEntryTitle;
 	NSMutableArray *songs;
-    NSMutableData *xmlData;
-    NSURLConnection *connectionInProgress;
+    NSMutableData *xmlData; 
+	NSURLConnection *connectionInProgress; 
+	NSMutableString *titleString;
 }
 - (void)loadSongs;
-
 @end

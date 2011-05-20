@@ -18,16 +18,26 @@
 			5AD28124138633FA005FBE63 /* TopSongs */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 327562234;
-			PBXWorkspaceStateSaveDate = 327562234;
+			PBXPerProjectTemplateStateSaveDate = 327570306;
+			PBXWorkspaceStateSaveDate = 327570306;
 		};
 		perUserProjectItems = {
-			5AD281421386381A005FBE63 /* PBXBookmark */ = 5AD281421386381A005FBE63 /* PBXBookmark */;
+			5A26EBC2138653860051D219 /* PBXTextBookmark */ = 5A26EBC2138653860051D219 /* PBXTextBookmark */;
 			5AD2814513863842005FBE63 /* PBXTextBookmark */ = 5AD2814513863842005FBE63 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 5AD2813713863409005FBE63 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	5A26EBC2138653860051D219 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5AD2813B138636FA005FBE63 /* RSSTableViewController.h */;
+		name = "RSSTableViewController.h: 12";
+		rLen = 22;
+		rLoc = 188;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
 	};
 	5AD28124138633FA005FBE63 /* TopSongs */ = {
 		isa = PBXExecutable;
@@ -75,13 +85,9 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1206, 641}}";
 			sepNavSelRange = "{188, 22}";
-			sepNavVisRange = "{0, 271}";
+			sepNavVisRange = "{0, 438}";
 			sepNavWindowFrame = "{{0, 9}, {1265, 769}}";
 		};
-	};
-	5AD281421386381A005FBE63 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 5AD2813B138636FA005FBE63 /* RSSTableViewController.h */;
 	};
 	5AD2814513863842005FBE63 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
