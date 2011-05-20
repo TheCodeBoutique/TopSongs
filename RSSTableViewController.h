@@ -12,7 +12,9 @@
 @interface RSSTableViewController : UITableViewController {
 
 	NSMutableArray *songs;
-
+    NSMutableData *xmlData;
+    NSURLConnection *connectionInProgress;
 }
+- (void)loadSongs;
 
 @end
