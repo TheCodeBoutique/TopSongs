@@ -197,7 +197,48 @@
 	<key>Notifications</key>
 	<array/>
 	<key>OpenEditors</key>
-	<array/>
+	<array>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>5AD2814313863842005FBE63</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>RSSTableViewController.h</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>5AD2814413863842005FBE63</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>RSSTableViewController.h</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>5AD2814513863842005FBE63</string>
+						<key>history</key>
+						<array>
+							<string>5AD281421386381A005FBE63</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {1265, 672}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>0 65 1265 713 0 0 1280 778 </string>
+			</dict>
+		</dict>
+	</array>
 	<key>PerspectiveWidths</key>
 	<array>
 		<integer>-1</integer>
@@ -226,7 +267,7 @@
 			<array>
 				<dict>
 					<key>Proportion</key>
-					<string>446pt</string>
+					<string>713pt</string>
 					<key>Tabs</key>
 					<array>
 						<dict>
@@ -246,7 +287,7 @@
 								<dict>
 									<key>PBXSmartGroupTreeModuleColumnWidthsKey</key>
 									<array>
-										<real>323</real>
+										<real>590</real>
 										<real>20</real>
 										<real>43</real>
 										<real>43</real>
@@ -268,11 +309,12 @@
 									<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 									<array>
 										<array>
+											<integer>6</integer>
 											<integer>0</integer>
 										</array>
 									</array>
 									<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-									<string>{{0, 0}, {429, 333}}</string>
+									<string>{{0, 0}, {696, 303}}</string>
 								</dict>
 								<key>PBXTopSmartGroupGIDs</key>
 								<array/>
@@ -282,11 +324,11 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{10, 27}, {446, 351}}</string>
+								<string>{{10, 27}, {713, 321}}</string>
 								<key>GroupTreeTableConfiguration</key>
 								<array>
 									<string>MainColumn</string>
-									<real>323</real>
+									<real>590</real>
 									<string>FileBuiltColumn</string>
 									<real>20</real>
 									<string>ErrorsColumn</string>
@@ -295,7 +337,7 @@
 									<real>43</real>
 								</array>
 								<key>RubberWindowFrame</key>
-								<string>421 359 446 419 0 0 1280 778 </string>
+								<string>-3 389 713 389 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXSmartGroupTreeModule</string>
@@ -473,9 +515,10 @@
 		<string>1C530D54069F1CE1000CFCEE</string>
 		<string>1C530D52069F1CE1000CFCEE</string>
 		<string>/Users/ceubanks/DEV/iOS/TopSongs/TopSongs.xcodeproj</string>
+		<string>5AD2814313863842005FBE63</string>
 	</array>
 	<key>WindowString</key>
-	<string>421 359 446 419 0 0 1280 778 </string>
+	<string>-3 389 713 389 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

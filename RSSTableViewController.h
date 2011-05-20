@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 
-@interface RSSTableViewController : UIViewController {
+@interface RSSTableViewController : UITableViewController {
+
+	NSMutableArray *songs;
 
 }
 

@@ -7,6 +7,7 @@
 //
 
 #import "TopSongsAppDelegate.h"
+#import "RSSTableViewController.h"
 
 @implementation TopSongsAppDelegate
 
@@ -16,10 +17,11 @@
 #pragma mark -
 #pragma mark Application lifecycle
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
-    // Override point for customization after application launch.
-    
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions 
+{    
+    RSSTableViewController *tvc = [[RSSTableViewController alloc]
+                                   initWithStyle:UITableViewStylePlain];
+    [window addSubview:[tvc view]];  
     [self.window makeKeyAndVisible];
     
     return YES;
